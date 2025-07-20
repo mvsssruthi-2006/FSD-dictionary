@@ -1,0 +1,55 @@
+body{
+        background-color: rgb(214, 231, 248);
+       
+        margin: 20px;
+        margin: 30px;
+    }
+    table{
+         border-collapse: collapse;
+        border: 2px solid black;
+    }
+    td,th {
+        background-color: rgb(212, 215, 232);
+        border: 1px solid black;
+        text-align: center;
+        border-collapse: collapse;
+          padding: 30px;
+    }
+    td {
+        padding: 20px;
+        font-size: 20px;
+    }
+    th{
+        font-size: 30px;
+    }
+    #hh{
+        text-transform: uppercase;
+        font-size: 50px;
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+         margin-top: 40px;
+    }
+    #h{
+        margin-top: 50px;
+        font-size: 20px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        text-align: left;
+       
+    }
+    li{
+        font-size: 19px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        padding: 10px;
+    }
+    mark {
+        background-color: rgb(250, 208, 240);
+        color: black;
+        font-style: italic;
+    }
+    a{
+        border: 2px solid black;
+        border-radius: 1px;
+        padding: 5px;
+        text-decoration: none;
+        background-color: blanchedalmond;
+    }
